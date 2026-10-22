@@ -4,9 +4,7 @@ WezTeram 的 Windows 版本的 DIY 配置文件，将 `.wezterm.lua` 文件放�
 
 将终端分为三部分，左边、右上、右下。一份为二，左边占 50%，右上和右下平分右边 50%；效果如下：
 
-![image-20261022080928173](D:\program\wezterm\wezterm-config\README.assets\image-20261022080928173.png)
-
-
+![效果展示图](README.assets/image-20261022080928173.png)
 
 # 快捷键
 
